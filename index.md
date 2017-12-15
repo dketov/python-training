@@ -1,6 +1,7 @@
 # Основные типы данных
 
 Видеолекция: https://youtu.be/DQs3RR4A-MA
+
 Примеры:
 * https://gist.github.com/dketov/1462180
 * https://gist.github.com/dketov/1462203
