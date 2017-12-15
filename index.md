@@ -18,7 +18,7 @@
 
 ## Основные управляющие конструкции
 
-Видеолекция:
+Видеолекция: https://youtu.be/nP-sLzQPxqg
 
 Примеры:
 * https://gist.github.com/dketov/1466907
